@@ -2,7 +2,7 @@
 
 > A Karma plugin for sinon-stub-promise
 
-[![Dependency Status](https://david-dm.org/alexweber/karma-sinon-stub-promise.svg)](https://david-dm.org/alexweber/karma-sinon-stub-promise) [![devDependency Status](https://david-dm.org/alexweber/karma-sinon-stub-promise/dev-status.svg)](https://david-dm.org/alexweber/karma-sinon-stub-promise#info=devDependencies)
+[![npm](https://img.shields.io/npm/v/karma-sinon-stub-promise.svg)](https://www.npmjs.com/package/karma-sinon-stub-promise) [![Dependency Status](https://david-dm.org/alexweber/karma-sinon-stub-promise.svg)](https://david-dm.org/alexweber/karma-sinon-stub-promise) [![devDependency Status](https://david-dm.org/alexweber/karma-sinon-stub-promise/dev-status.svg)](https://david-dm.org/alexweber/karma-sinon-stub-promise#info=devDependencies)
 
 ## Installation
 

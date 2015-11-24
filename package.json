@@ -2,23 +2,28 @@
   "name": "karma-sinon-stub-promise",
   "version": "0.1.0",
   "description": "Karma plugin for sinon-stub-promise",
-  "main": "index.js",
-  "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+  "author": "Alex Weber <alexweber15@gmail.com> (http://alexweber.com.br)",
+  "license": "Unlicense",
+  "homepage": "https://github.com/alexweber/karma-sinon-stub-promise",
+  "keywords": [
+    "karma",
+    "karma-plugin",
+    "sinon",
+    "promise"
+  ],
+  "bugs": {
+    "url": "https://github.com/alexweber/karma-sinon-stub-promise/issues"
   },
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "git+https://github.com/alexweber/karma-sinon-stub-promise.git"
   },
-  "keywords": [
-    "karma",
-    "sinon",
-    "promise"
-  ],
-  "author": "Alex Weber <alexweber15@gmail.com> (http://alexweber.com.br)",
-  "license": "Unlicense",
-  "bugs": {
-    "url": "https://github.com/alexweber/karma-sinon-stub-promise/issues"
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/alexweber/karma-sinon-stub-promise"
+  "peerDependencies": {
+    "sinon-stub-promise": "*",
+    "sinon": "*"
+  }
 }

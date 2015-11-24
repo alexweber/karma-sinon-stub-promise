@@ -1,6 +1,6 @@
 {
   "name": "karma-sinon-stub-promise",
-  "version": "0.1.0",
+  "version": "1.0.0",
   "description": "Karma plugin for sinon-stub-promise",
   "author": "Alex Weber <alexweber15@gmail.com> (http://alexweber.com.br)",
   "license": "Unlicense",

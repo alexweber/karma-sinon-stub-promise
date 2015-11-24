@@ -1,0 +1,24 @@
+{
+  "name": "karma-sinon-stub-promise",
+  "version": "0.1.0",
+  "description": "Karma plugin for sinon-stub-promise",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexweber/karma-sinon-stub-promise.git"
+  },
+  "keywords": [
+    "karma",
+    "sinon",
+    "promise"
+  ],
+  "author": "Alex Weber <alexweber15@gmail.com> (http://alexweber.com.br)",
+  "license": "Unlicense",
+  "bugs": {
+    "url": "https://github.com/alexweber/karma-sinon-stub-promise/issues"
+  },
+  "homepage": "https://github.com/alexweber/karma-sinon-stub-promise"
+}
